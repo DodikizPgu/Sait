@@ -1,0 +1,30 @@
+<html>
+<head>
+<title>
+</title>
+
+</head>
+<link rel="stylesheet" href="css.css" type="text/css">
+
+<frameset rows="7.5%,12%,79.5%" frameborder="0" framespacing="0">
+<frame src="main.html" scrolling="no">
+<frame src="tablets1.html" scrolling="no">
+<frame src="" name="frame";>
+</frameset>
+
+<body>
+
+
+<header class="header">	
+<div><a href="main.html" target="_top"><img src="logo4.png" width="60px" height="60px"></a></div>
+<div class = "title" ><a href="main.html" target="_top">TechPro</a></div>
+<ul class = "menu">
+		<li><a href = "computers.html" target="_top">Планшеты</a></li>
+		<li><a href = "notebooks.html" target="_top">Ноутбуки</a></li>
+		<li><a href = "smartphones.html" target="_top">Смартфоны</a></li>
+		<li><a href = "support.html" target="_top">Поддержка</a></li>
+</ul>
+</header>
+
+</body>
+</html>

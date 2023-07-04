@@ -1,0 +1,37 @@
+<html>
+<head>
+<title>
+</title>
+<style>
+body {
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+	font-size:18px;
+}
+Div{font-size:24px;}
+</style>
+</head>
+
+
+
+
+<body>
+<br><br>
+<img src="30056722bb.jpg" style="margin-left:15px;" width="500" height="500" align="middle">
+<ul style="margin-left:500px; margin-top:-350px"> <li>10,2″
+Дисплей Retina 
+с технологией True Tone</li>
+<li>Чип A13 TechPro 
+с системой Neural Engine</li>
+<li>До 9 часов работы в интернете по сотовой сети</li>
+<br><br><br><br>
+<div>57990 руб.</div>
+
+<img src="30056722bb1.jpg" style="margin-left:15px; margin-top:250px" width="500" height="500" align="right">
+<ul style="margin-top:500px; margin-left:-300px"> <li>HD‑видео 1080p с частотой 25 или 30 кадров в секунду</li>
+<li>Датчик идентификации по отпечатку пальца (встроен в кнопку «Домой»)</li>
+<li>Широкоугольная камера 8 Мп</li>
+
+
+
+</body>
+</html>

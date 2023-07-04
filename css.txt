@@ -1,0 +1,54 @@
+.title{
+	font-size: 32px;
+	padding-top: 2px;
+	color: white;
+	left: 60px; 
+	position: absolute; 
+	top: 10px;
+}
+.menu{
+	list-style: none;
+	font-size: 14px;
+	position: absolute;  
+	top: -2px;
+	margin-left: 450px;
+	padding: 10px;
+}
+a{ 
+	text-decoration: none;
+	color: #e3e3e3;
+}
+header{
+	background: black;
+}
+
+a:hover{
+	color: white;	
+}
+li{
+	display: inline;
+	padding: 20px;
+}	
+body {
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+}
+.header { 
+	position: fixed; 
+    	top: 0; 
+   	width: 100%; 
+	left: -0.1px;
+}
+.slider{ margin-left:-7.9px;
+	width: 1440px;
+	height: 900px;
+	background: url(fon33.png);
+	margin 140px auto;
+	animation: slide 11s infinite;
+}
+
+@keyframes slide{
+		
+		25% {background: url(fon5.png);}
+		50% {background: url(fon1.png);}
+		
+}

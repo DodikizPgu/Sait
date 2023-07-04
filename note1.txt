@@ -1,0 +1,36 @@
+<html>
+<head>
+<title>
+</title>
+<style>
+body {
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+	font-size:18px;
+}
+Div{font-size:24px;}
+</style>
+</head>
+
+
+
+
+<body>
+<br><br>
+<img src="30055357b.jpg" style="margin-left:15px;" width="500" height="500" align="middle">
+<ul style="margin-left:500px; margin-top:-350px"> <li>8‑ядерный процессор</li>
+<li>4‑ядерный графический процессор</li>
+<li>16 ГБ объединённой памяти</li>
+<br><br>
+<div>129990 руб.</div>
+
+<img src="30055357b1.jpg" style="margin-left:15px; margin-top:250px" width="500" height="500" align="right">
+<ul style="margin-top:500px; margin-left:-300px"> <li>Дисплей Liquid Retina XDR 14 дюймов</li>
+<li>Распознавание лица с помощью
+камеры TrueDepth</li>
+<li> Клавиатура Magic Keyboard с Touch ID
+</li>
+
+
+
+</body>
+</html>

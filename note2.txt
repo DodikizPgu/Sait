@@ -1,0 +1,38 @@
+<html>
+<head>
+<title>
+</title>
+<style>
+body {
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+	font-size:18px;
+}
+Div{font-size:24px;}
+</style>
+</head>
+
+
+
+
+<body>
+<br><br>
+<img src="30059937bb.jpg" style="margin-left:15px;" width="500" height="500" align="middle">
+<ul style="margin-left:500px; margin-top:-350px"> <li>16,9″
+ Дисплей Liquid Retina XDR1
+с технологиями ProMotion
+и True Tone</li>
+<li>Ч10‑ядерный процессор</li>
+<li>До 10 часов работы в интернете по Wi‑Fi или просмотра видео</li>
+<br><br>
+<div>169990 руб.</div>
+
+<img src="30059937bb1.jpg" style="margin-left:15px; margin-top:250px" width="500" height="500" align="right">
+<ul style="margin-top:500px; margin-left:-300px"> <li>SSD‑накопитель 1 ТБ</li>
+<li>Распознавание лица с помощью
+камеры TrueDepth</li>
+<li>Три порта Thunderbolt 4, порт HDMI, слот для карт SDXC, разъём питания MagSafe 3</li>
+
+
+
+</body>
+</html>

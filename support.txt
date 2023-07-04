@@ -1,0 +1,30 @@
+<html>
+<head>
+<title>
+</title>
+<link rel="stylesheet" href="css.css" type="text/css">
+<style>
+Body{font-size:28px;
+ background-image:url(fon1.jpg)}
+.a{color:black}
+</style>
+</head>
+
+<body>
+<header class="header">	
+<div><a href="main.html"><img src="logo4.png" width="60px" height="60px"></a></div>
+<div class = "title" ><a href="main.html">TechPro</a></div>
+<ul class = "menu">
+		<li><a href = "computers.html" target="_top">Планшеты</a></li>
+		<li><a href = "notebooks.html" target="_top">Ноутбуки</a></li>
+		<li><a href = "smartphones.html" target="_top">Смартфоны</a></li>
+		<li><a href = "support.html" target="_top">Поддержка</a></li>	
+</ul>
+</header>
+
+
+
+<center><div style="margin-top:300px">Получите поддержку «Поддержка TechPro», обратитесь к нашему специалисту, чтобы найти ответы на вопросы о ваших продуктах, проконсультироваться с экспертом или забронировать время для встречи со специалистом по ремонту:<br><br>  <a class="a" href="https://vk.com/nbespalov2" >Специалист Никита</div><br><a class="a" href="https://vk.com/kuryaevv" >Специалист Юнус</div>
+</body>
+</html>
+

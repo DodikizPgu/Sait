@@ -1,0 +1,28 @@
+<html>
+<head>
+<style>
+.text {font-size:12px}
+body {
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+}
+.list{
+    list-style-type: none;
+}
+li{
+	display: inline-block;
+	padding:70px;
+	font-size:13px;
+}	
+ul {margin-top:-65px;}
+</style>
+</head>
+<body>
+
+
+<ul class="list"><center>
+		<li><a href = "phone1.html" target="frame"><img src="device_smartphone_icon_157275.png" width="55" height="55"></a><br>ProPhone X</li>
+		<li><a href = "phone2.html" target="frame"><img src="touch_screen_smartphone_icon_124238.png" width="55" height="55"></a><br>ProPhone Mini</li></center>
+</ul>
+
+</body>
+</html>

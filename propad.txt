@@ -1,0 +1,40 @@
+<html>
+<head>
+<title>
+</title>
+<style>
+body {
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+	font-size:18px;
+}
+Div{font-size:24px;}
+</style>
+</head>
+
+
+
+
+<body>
+<br><br>
+<img src="propadmini.jpg" style="margin-left:15px;" width="500" height="500" align="middle">
+<ul style="margin-left:500px; margin-top:-350px"> <li>12,9″
+ Дисплей Liquid Retina XDR1
+с технологиями ProMotion
+и True Tone</li>
+<li>Чип TechPro 1 с системой Neural Engine
+нового поколения</li>
+<li>До 10 часов работы в интернете по Wi‑Fi или просмотра видео</li>
+<br><br>
+<div>46990 руб.</div>
+
+<img src="propadmini1.jpg" style="margin-left:15px; margin-top:250px" width="500" height="500" align="right">
+<ul style="margin-top:500px; margin-left:-300px"> <li>Широкоугольная камера 12 Мп и сверхширо­ко­угольная
+камера 10 Мп</li>
+<li>Распознавание лица с помощью
+камеры TrueDepth</li>
+<li>4 динамика</li>
+
+
+
+</body>
+</html>
